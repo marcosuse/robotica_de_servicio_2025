@@ -96,6 +96,6 @@ Durante el desarrollo y ejecución de la práctica se pueden presentar los sigui
 
 ## 6 Video de la ejecución
 
-[![Ver video]()](https://urjc-my.sharepoint.com/:v:/g/personal/m_useros_2022_alumnos_urjc_es/EWBF2h6yHfZPgWEQOqXcoxIBcpV9NeJ50szexMsVlmyR4A?e=1gFHZB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[![Ver video](https://github.com/marcosuse/robotica_de_servicio_2025/blob/main/p1_localized_vacumm_cleaner/local_vacumm.png)](https://urjc-my.sharepoint.com/:v:/g/personal/m_useros_2022_alumnos_urjc_es/EWBF2h6yHfZPgWEQOqXcoxIBcpV9NeJ50szexMsVlmyR4A?e=1gFHZB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
