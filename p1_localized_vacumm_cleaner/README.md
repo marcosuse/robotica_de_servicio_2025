@@ -1,7 +1,7 @@
 # P1 LOCALIZED VACUMM CLEANER
 
-## 📑 Índice
-1. [Descripción General](#-descripción-general)  
+## Índice
+1. [Descripción General](#-Descripción-General)  
 2. [Objetivos de la Práctica](#-objetivos-de-la-práctica)  
 3. [Componentes Principales](#-componentes-principales)  
 4. [Flujo de Ejecución](#-flujo-de-ejecución)  
