@@ -1,12 +1,12 @@
 # P1 LOCALIZED VACUMM CLEANER
 
 ## Índice
-1. [Descripción General](#-Descripción-General)  
-2. [Objetivos de la Práctica](#-objetivos-de-la-práctica)  
-3. [Componentes Principales](#-componentes-principales)  
-4. [Flujo de Ejecución](#-flujo-de-ejecución)  
-5. [Posibles Problemas Encontrados](#️-posibles-problemas-encontrados)  
-6. [Evidencias en Video](#-evidencias-en-video)  
+1. Descripción General
+2. Objetivos de la Práctica
+3. Componentes Principales
+4. Flujo de Ejecución
+5. Problemas Encontrados
+6. Video de la ejecucion
 
 ---
 
@@ -65,7 +65,7 @@ Durante la ejecución:
 
 ---
 
-## Flujo de Ejecución
+## 4 Flujo de Ejecución
 
 1. Carga y preprocesamiento del mapa.  
 2. Generación del grid y clasificación de las celdas.  
@@ -79,7 +79,7 @@ Durante la ejecución:
 
 ---
 
-## Problemas Encontrados
+## 5 Problemas Encontrados
 
 Durante el desarrollo y ejecución de la práctica se pueden presentar los siguientes inconvenientes:
 
@@ -94,4 +94,8 @@ Durante el desarrollo y ejecución de la práctica se pueden presentar los sigui
 
 ---
 
-## Video de la ejecución
+## 6 Video de la ejecución
+
+[![Ver video]()](https://urjc-my.sharepoint.com/:v:/g/personal/m_useros_2022_alumnos_urjc_es/EWBF2h6yHfZPgWEQOqXcoxIBcpV9NeJ50szexMsVlmyR4A?e=1gFHZB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
