@@ -92,6 +92,9 @@ Durante el desarrollo y ejecución de la práctica se pueden presentar los sigui
 - **Retrasos o sobrecarga visual**, debido a la actualización frecuente de la interfaz gráfica.
      - **Solución**: mostrar el mapa cada un numero de iteraciones del bucle.
 
+- Otros problemas encontrados que a los que no he encontrado una solucion clara ya que sus posibles soluciones generaban un funcionamiento parecido o peor:
+     - colapse de los obstaculos en la zona del mapa de GUI cuando en gazebo no se choca,
+     - encontrar el numero de pixeles por rejilla optimo, ya que el mapa al ser rectangular no hay una forma clara de que las rejillas sean cuadradas sin hacer que se deje cosas sin limpiar. Por lo          que hay que tener en las rejillas una forma muy baja pero lo sufientemente ancha 
 ---
 
 ## 6 Video de la ejecución
