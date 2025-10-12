@@ -79,26 +79,19 @@ Durante la ejecución:
 
 ---
 
-## Posibles Problemas Encontrados
+## Problemas Encontrados
 
 Durante el desarrollo y ejecución de la práctica se pueden presentar los siguientes inconvenientes:
 
-- **Desajustes en la transformación de coordenadas**, provocando que la posición del robot en el mapa no coincida con su posición real en el simulador.  
-- **Errores de calibración del PID**, que pueden causar oscilaciones o movimientos bruscos.  
-- **Problemas de discretización del mapa**, especialmente si las dimensiones del robot y las celdas no están bien ajustadas.  
-- **Bloqueos del algoritmo BSA**, cuando no se detectan correctamente los puntos de retorno o las celdas críticas.  
-- **Retrasos o sobrecarga visual**, debido a la actualización frecuente de la interfaz gráfica.  
-- **Imprecisiones en la detección de obstáculos**, si el mapa original tiene ruido o sombras.  
+- **Desajustes en la transformación de coordenadas**, provocando que la posición del robot en el mapa no coincida con su posición real en el simulador.
+     - **Solución**: coger mas puntos en el mapa con sus correspondientes puntos en el mundo.
+- **Errores de calibración del PID**, causando oscilaciones y movimientos bruscos.
+     - **Solución**: probar mas valores.
+- **Algoritmo BSA**, cuando llegan a puntos criticos, antes de usar BFS, se usaba distancia euclidia causando que los planes sean muy poco optimos y las rutas hacia los puntos de retornos sean dificiles o imposibles de seguir.
+  **Solución**: usar bfs.
+- **Retrasos o sobrecarga visual**, debido a la actualización frecuente de la interfaz gráfica.
+     - **Solución**: mostrar el mapa cada un numero de iteraciones del bucle.
 
 ---
 
-## Evidencias en Video
-
-Se incluyen videos demostrativos del comportamiento del robot en diferentes escenarios:
-
-1. **Exploración completa del entorno principal.**  
-2. **Visualización del movimiento y cobertura de celdas.**  
-3. **Comportamiento del PID ante distintos ángulos y distancias.**  
-4. **Ejemplo de detección y retorno desde un punto crítico.**
-
-> Los videos muestran el correcto funcionamiento del algoritmo de exploración y la estabilidad del control del robot en entornos simulados.
+## Video de la ejecución
