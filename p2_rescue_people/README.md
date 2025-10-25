@@ -12,8 +12,8 @@
 
 ## 1. Descripción General
 
-Esta práctica implementa un sistema de **búsqueda y rescate autónomo** utilizando un dron en un entorno simulado.  
-El dron despega, se desplaza hacia una zona de búsqueda predefinida, y realiza un **patrón de exploración en espiral** para detectar personas en el terreno mediante **visión artificial y detección facial**.  
+Esta práctica implementa un sistema de **búsqueda autónoma** utilizando un dron en un entorno simulado.  
+El dron despega, se desplaza hacia una zona de búsqueda predefinida, y realiza un **patrón de exploración basada en un barrido en espiral** para detectar personas en el terreno mediante **visión y detección facial**.  
 
 Además, el sistema incorpora una **gestión inteligente de batería**, que obliga al dron a **retornar automáticamente a la base** cuando el nivel de energía es bajo, realizar un proceso de **recarga simulada** y **reanudar la misión** desde el punto en el que se detuvo.  
 
@@ -23,7 +23,7 @@ Además, el sistema incorpora una **gestión inteligente de batería**, que obli
 
 1. Implementar un **autómata de estados** que controle el comportamiento del dron durante toda la misión.  
 2. Realizar **detección facial robusta** utilizando la librería OpenCV y un **clasificador Haar Cascade**.  
-3. Ejecutar un patrón de búsqueda en **espiral**, garantizando la cobertura total del área.  
+3. Ejecutar un patrón de búsqueda, garantizando la cobertura total del área.  
 4. Integrar la **gestión de batería**, permitiendo retorno, aterrizaje y recarga automática.  
 5. Transformar coordenadas de **imagen a coordenadas del mundo (Gazebo)** para registrar las posiciones donde se detectaron personas.  
 6. Visualizar en tiempo real las imágenes frontales y ventrales, así como las detecciones realizadas.  
@@ -82,7 +82,7 @@ Si el nivel baja del 30%, el dron **interrumpe su misión** y retorna automátic
    - Si se detectan 6 o más personas, pasa al estado de retorno.  
 5. **Retorno a la base (RETURN_2_BOAT):** vuelve a la posición inicial cuando completa la misión o la batería está baja.  
 6. **Aterrizaje (LAND):** se posa sobre la base de recarga.  
-7. **Recarga (RECHARGING):** simula la carga hasta alcanzar el 100%. Si estaba en medio de una misión, la reanuda automáticamente.  
+7. **Recarga (RECHARGING):** simula la carga hasta alcanzar el 100%. Si estaba en medio de una misión, la reanuda automáticamente.
 
 ---
 
@@ -103,7 +103,7 @@ Durante el desarrollo de la práctica se identificaron varios desafíos:
   - **Solución:** guardar el estado previo (`state_battery_low`) antes de cambiar a recarga.  
 
 - **Rendimiento del procesamiento visual**, debido a la detección en múltiples rotaciones.  
-  - **Solución:** reducir el número de rotaciones o procesar solo cada ciertos ciclos del bucle principal.  
+  - **Solución:** reducir el número de rotaciones o procesar solo cuando halla algo interesante.  
 
 ---
 
