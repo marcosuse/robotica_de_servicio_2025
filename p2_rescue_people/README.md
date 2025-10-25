@@ -109,4 +109,4 @@ Durante el desarrollo de la práctica se identificaron varios desafíos:
 
 ## 6. Video de la ejecución
 
-[![Ver video]
+[![Ver video](https://github.com/marcosuse/robotica_de_servicio_2025/blob/main/p2_rescue_people/rescue.png)](https://urjc-my.sharepoint.com/:v:/g/personal/m_useros_2022_alumnos_urjc_es/EYTJUBE4g1pJv93l-LNOAeYBZuHwFXYdY0VC3lNGuiYOTQ?e=pUnuJB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
