@@ -72,7 +72,6 @@ Durante el desarrollo y ejecución de la práctica se han presentado los siguien
      - **Solución**: Aumentar ligeramente el tamaño del polígono.
 - **Rutas imposibles o subóptimas**,Al principio usaba RRTconnect pero este se basa en encontrar una solucion aunque sea poco optima, RRT* encuentra rutas bastante optimas, pero a veces muy ajustadas por lo que debemos añadir algunos pixel como seguridad.
 - **Poca friccion con la estanteria**, Al levantar la estanteria, El robot ademas de tener otra geometria esta no esta anclada a el robot por lo que hay posibilidad de que se caiga o se de la vuelta, ademas en la simulacion la friccion funciona mal.
-- 
 ---
 
 ## 6 Video de la ejecución
