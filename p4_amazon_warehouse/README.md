@@ -75,4 +75,7 @@ Durante el desarrollo y ejecución de la práctica se han presentado los siguien
 ---
 
 ## 6 Video de la ejecución
-
+- ackerman
+  [![Ver video](https://github.com/marcosuse/robotica_de_servicio_2025/blob/main/p4_amazon_warehouse/ackerman.png)](https://urjc-my.sharepoint.com/:v:/g/personal/m_useros_2022_alumnos_urjc_es/EThw3NyZ4HNLhZ23VJxb9UABkwmFm6gemRleh9_eU2bs1A?e=lJ7qn5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+  - holonomico
+  [![Ver video](https://github.com/marcosuse/robotica_de_servicio_2025/blob/main/p4_amazon_warehouse/holonomico.png)](https://urjc-my.sharepoint.com/:v:/g/personal/m_useros_2022_alumnos_urjc_es/EaxT6Sf_rd9EqA7jVJyaggQBbGLuF9wns0GrR2UB0QhwfA?e=sUNP5B&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
