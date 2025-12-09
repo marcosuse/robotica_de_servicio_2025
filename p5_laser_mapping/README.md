@@ -78,4 +78,4 @@ Para llegar a la frontera más cercana, se utiliza el algoritmo de **Búsqueda e
 
 ## 6 Video de la ejecución
 
-[![Ver video]()
+[Ver video]()
