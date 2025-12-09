@@ -76,8 +76,14 @@ Para llegar a la frontera más cercana, se utiliza el algoritmo de **Búsqueda e
      - **Solución**: buscar siempre las fronteras mas cercanas. 
 ---
 
+
+
 ## 6 Video de la ejecución
 
 [![Ver video](https://github.com/marcosuse/robotica_de_servicio_2025/blob/main/p5_laser_mapping/sin_ruido.png)](https://urjc-my.sharepoint.com/:v:/g/personal/m_useros_2022_alumnos_urjc_es/IQC8odrE-AkOQJz9bW4F5FzuARYSWC_A-rW7ktNt12rpQc8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=THg04Y)
 
-[!(https://github.com/marcosuse/robotica_de_servicio_2025/blob/main/p5_laser_mapping/con_ruido.png)]
+Como podemos ver en el video, el mapa queda bien ya que no tiene ruido la odomotria, Cuando se añade ruido a la odometria el mapa puede quedar asi:
+
+![Con Ruido](https://github.com/marcosuse/robotica_de_servicio_2025/blob/main/p5_laser_mapping/con_ruido.png?raw=true)
+
+
