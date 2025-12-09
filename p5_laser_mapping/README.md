@@ -1,4 +1,4 @@
-# P5 AUTONOMOUS FRONTIER EXPLORATION
+# P5 LASER MAPPING
 
 ## Índice
 1. Descripción General
