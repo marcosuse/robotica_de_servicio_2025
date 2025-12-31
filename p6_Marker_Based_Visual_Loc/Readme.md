@@ -90,4 +90,4 @@ Durante el desarrollo se han presentado y solucionado los siguientes inconvenien
 
 - Localización visual con AprilTags
   
-  [![Ver video](https://github.com/marcosuse/robotica_de_servicio_2025/blob/main/P6_Marker_Based_Visual_Loc/loc.png)](https://urjc-my.sharepoint.com/:v:/g/personal/m_useros_2022_alumnos_urjc_es/IQAeRoPOrntmRqHPfOfk4ooxAeAE06SfAw07FBroo0j4pxY?e=Xqwk7M&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+  [![Ver video](https://github.com/marcosuse/robotica_de_servicio_2025/blob/main/p6_Marker_Based_Visual_Loc/loc.png)](https://urjc-my.sharepoint.com/:v:/g/personal/m_useros_2022_alumnos_urjc_es/IQAeRoPOrntmRqHPfOfk4ooxAeAE06SfAw07FBroo0j4pxY?e=Xqwk7M&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
